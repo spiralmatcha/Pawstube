@@ -1,5 +1,5 @@
 body {
-    color: rgb(217, 228, 252);
+    color: rgb(199, 209, 231);
     background: rgb(140, 162, 180);
     margin: 10px
     font-family: "Sour Gummy", sans-serif;
@@ -39,4 +39,9 @@ img {
     display: flex;
     overflow-x: auto;
     gap: 20px;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
 }
