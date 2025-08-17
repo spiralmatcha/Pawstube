@@ -5,7 +5,19 @@ body {
 }
 
 header {
-    border-bottom: solid 2px white;
+    border-bottom: solid 5px white;
     padding: 20px;
-    font-size: 32px;
+    font-size: 30px;
+}
+
+section {
+	background: rgb(196, 190, 230);
+	padding-bottom: 80px;
+	padding-top: 80px;
+	display: flex;
+	justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
 }
