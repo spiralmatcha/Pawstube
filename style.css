@@ -1,5 +1,5 @@
 body {
-    color: rgb(232, 239, 255);
+    color: white;
     background: rgb(140, 162, 180);
     margin: 10px
     font-family: "Sour Gummy", sans-serif;
@@ -9,6 +9,7 @@ header {
     border-bottom: solid 5px white;
     padding: 20px;
     font-size: 30px;
+    color: azure
 }
 
 section {
