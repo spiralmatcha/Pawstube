@@ -1,5 +1,5 @@
 body {
-    color: rgb(199, 209, 231);
+    color: rgb(232, 239, 255);
     background: rgb(140, 162, 180);
     margin: 10px
     font-family: "Sour Gummy", sans-serif;
@@ -42,6 +42,6 @@ img {
 }
 
 section {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
